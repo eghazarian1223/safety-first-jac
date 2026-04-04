@@ -1,0 +1,8 @@
+{
+  "segments": [
+    { "segment_id": 1, "has_sidewalk": true, "road_type": "residential" },
+    { "segment_id": 2, "has_sidewalk": true, "road_type": "residential" },
+    { "segment_id": 3, "has_sidewalk": false, "road_type": "primary" },
+    { "segment_id": 4, "has_sidewalk": false, "road_type": "primary" }
+  ]
+}
