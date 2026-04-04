@@ -4,7 +4,7 @@ OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 
 QUERY = """
 [out:json][timeout:25];
-way["highway"](40.7125,-74.0065,40.7162,-74.0028);
+way["highway"](47.644,-122.128,47.671,-122.115);
 out body;
 >;
 out skel qt;

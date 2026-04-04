@@ -8,13 +8,15 @@ from extract import extract_segments
 from validate import find_failure
 
 MOCK_PATH = Path(__file__).parent.parent / "mock" / "segments.json"
-REAL_PATH = Path(__file__).parent.parent / "real" / "segments.json"
+REAL_PATH = Path(__file__).parent.parent / "real" / "segments_osm.json"
 
-# Start coordinates of each mock route — used to split OSM ways into primary vs safer
-PRIMARY_START = {"lat": 40.7128, "lng": -74.0060}
-SAFER_START = {"lat": 40.7128, "lng": -74.0060}
-PRIMARY_MID = {"lat": 40.7142, "lng": -74.0048}   # failure area
-SAFER_MID = {"lat": 40.7130, "lng": -74.0072}      # detour area
+# Redmond WA route: Microsoft Bldg 30 → Residence Inn
+# Primary route goes north along 163rd/164th Ave NE (failure area ~47.6555, -122.1205)
+# Safer route detours west via 162nd Ave NE (detour area ~47.6560, -122.1250)
+PRIMARY_START = {"lat": 47.645006, "lng": -122.122203}
+SAFER_START = {"lat": 47.645006, "lng": -122.122203}
+PRIMARY_MID = {"lat": 47.6555, "lng": -122.1205}   # failure area (164th Ave NE)
+SAFER_MID = {"lat": 47.6560, "lng": -122.1250}     # detour area (162nd Ave NE)
 
 
 def _dist(a, b):
