@@ -1,0 +1,5752 @@
+{
+  "routes": {
+    "primary": {
+      "route_id": "primary",
+      "segments": [
+        {
+          "segment_id": 1,
+          "coordinates": [
+            {
+              "lat": 40.7157586,
+              "lng": -74.0049777
+            },
+            {
+              "lat": 40.717598,
+              "lng": -74.009
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 2,
+          "coordinates": [
+            {
+              "lat": 40.7134819,
+              "lng": -74.0048174
+            },
+            {
+              "lat": 40.7140166,
+              "lng": -74.0044302
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 3,
+          "coordinates": [
+            {
+              "lat": 40.7139579,
+              "lng": -74.0030498
+            },
+            {
+              "lat": 40.7145189,
+              "lng": -74.0024513
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 4,
+          "coordinates": [
+            {
+              "lat": 40.713643,
+              "lng": -74.0036108
+            },
+            {
+              "lat": 40.7154325,
+              "lng": -74.007533
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 5,
+          "coordinates": [
+            {
+              "lat": 40.7157929,
+              "lng": -74.0066159
+            },
+            {
+              "lat": 40.7163185,
+              "lng": -74.0061911
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 6,
+          "coordinates": [
+            {
+              "lat": 40.7166598,
+              "lng": -74.0042041
+            },
+            {
+              "lat": 40.7158979,
+              "lng": -74.002827
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 7,
+          "coordinates": [
+            {
+              "lat": 40.7119599,
+              "lng": -74.0040736
+            },
+            {
+              "lat": 40.712668,
+              "lng": -74.0044121
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 8,
+          "coordinates": [
+            {
+              "lat": 40.7136103,
+              "lng": -74.0035418
+            },
+            {
+              "lat": 40.7139579,
+              "lng": -74.0030498
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 9,
+          "coordinates": [
+            {
+              "lat": 40.7136604,
+              "lng": -74.003649
+            },
+            {
+              "lat": 40.713155,
+              "lng": -74.004109
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 10,
+          "coordinates": [
+            {
+              "lat": 40.717948,
+              "lng": -74.001008
+            },
+            {
+              "lat": 40.7155918,
+              "lng": -74.0030354
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 11,
+          "coordinates": [
+            {
+              "lat": 40.7141387,
+              "lng": -74.0034162
+            },
+            {
+              "lat": 40.7139579,
+              "lng": -74.0030498
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 12,
+          "coordinates": [
+            {
+              "lat": 40.7145774,
+              "lng": -74.004013
+            },
+            {
+              "lat": 40.7143201,
+              "lng": -74.0036862
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 13,
+          "coordinates": [
+            {
+              "lat": 40.7142176,
+              "lng": -74.0043173
+            },
+            {
+              "lat": 40.7145774,
+              "lng": -74.004013
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 14,
+          "coordinates": [
+            {
+              "lat": 40.7138529,
+              "lng": -74.003121
+            },
+            {
+              "lat": 40.7139411,
+              "lng": -74.0032545
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 15,
+          "coordinates": [
+            {
+              "lat": 40.7154802,
+              "lng": -74.0030123
+            },
+            {
+              "lat": 40.7155142,
+              "lng": -74.0031209
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 16,
+          "coordinates": [
+            {
+              "lat": 40.7142387,
+              "lng": -74.0034898
+            },
+            {
+              "lat": 40.7141258,
+              "lng": -74.0035285
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 17,
+          "coordinates": [
+            {
+              "lat": 40.7124569,
+              "lng": -74.0047634
+            },
+            {
+              "lat": 40.712686,
+              "lng": -74.0044642
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 18,
+          "coordinates": [
+            {
+              "lat": 40.712114,
+              "lng": -74.0044307
+            },
+            {
+              "lat": 40.7126253,
+              "lng": -74.0045462
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 19,
+          "coordinates": [
+            {
+              "lat": 40.7126739,
+              "lng": -74.0025407
+            },
+            {
+              "lat": 40.7123778,
+              "lng": -74.0030513
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 20,
+          "coordinates": [
+            {
+              "lat": 40.7155918,
+              "lng": -74.0030354
+            },
+            {
+              "lat": 40.714734,
+              "lng": -74.0031947
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 21,
+          "coordinates": [
+            {
+              "lat": 40.7162939,
+              "lng": -74.0045248
+            },
+            {
+              "lat": 40.715236,
+              "lng": -74.00542
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 22,
+          "coordinates": [
+            {
+              "lat": 40.7162939,
+              "lng": -74.0045248
+            },
+            {
+              "lat": 40.7157901,
+              "lng": -74.0034618
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 23,
+          "coordinates": [
+            {
+              "lat": 40.71312,
+              "lng": -74.0039898
+            },
+            {
+              "lat": 40.713155,
+              "lng": -74.004109
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 24,
+          "coordinates": [
+            {
+              "lat": 40.713155,
+              "lng": -74.004109
+            },
+            {
+              "lat": 40.7127537,
+              "lng": -74.0045249
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 25,
+          "coordinates": [
+            {
+              "lat": 40.7128973,
+              "lng": -74.0042063
+            },
+            {
+              "lat": 40.71312,
+              "lng": -74.0039898
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 26,
+          "coordinates": [
+            {
+              "lat": 40.7134382,
+              "lng": -74.0049173
+            },
+            {
+              "lat": 40.7131087,
+              "lng": -74.0042573
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 27,
+          "coordinates": [
+            {
+              "lat": 40.7134076,
+              "lng": -74.0049401
+            },
+            {
+              "lat": 40.713038,
+              "lng": -74.0052387
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 28,
+          "coordinates": [
+            {
+              "lat": 40.713644,
+              "lng": -74.005353
+            },
+            {
+              "lat": 40.7135817,
+              "lng": -74.0054039
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 29,
+          "coordinates": [
+            {
+              "lat": 40.7145386,
+              "lng": -74.0060039
+            },
+            {
+              "lat": 40.7141733,
+              "lng": -74.0063041
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 30,
+          "coordinates": [
+            {
+              "lat": 40.7159654,
+              "lng": -74.0063175
+            },
+            {
+              "lat": 40.7160078,
+              "lng": -74.006408
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 31,
+          "coordinates": [
+            {
+              "lat": 40.7165477,
+              "lng": -74.0050927
+            },
+            {
+              "lat": 40.7159975,
+              "lng": -74.0054873
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 32,
+          "coordinates": [
+            {
+              "lat": 40.713774,
+              "lng": -74.0036533
+            },
+            {
+              "lat": 40.713654,
+              "lng": -74.0034344
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 33,
+          "coordinates": [
+            {
+              "lat": 40.7142154,
+              "lng": -74.0031876
+            },
+            {
+              "lat": 40.7141486,
+              "lng": -74.0031923
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 34,
+          "coordinates": [
+            {
+              "lat": 40.7147903,
+              "lng": -74.0030207
+            },
+            {
+              "lat": 40.7154779,
+              "lng": -74.0029057
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 35,
+          "coordinates": [
+            {
+              "lat": 40.7131669,
+              "lng": -74.0039102
+            },
+            {
+              "lat": 40.713245,
+              "lng": -74.0040602
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 36,
+          "coordinates": [
+            {
+              "lat": 40.7136227,
+              "lng": -74.0037447
+            },
+            {
+              "lat": 40.7135151,
+              "lng": -74.0035798
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 37,
+          "coordinates": [
+            {
+              "lat": 40.713757,
+              "lng": -74.003722
+            },
+            {
+              "lat": 40.7136595,
+              "lng": -74.0037607
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 38,
+          "coordinates": [
+            {
+              "lat": 40.7141258,
+              "lng": -74.0035285
+            },
+            {
+              "lat": 40.713757,
+              "lng": -74.003722
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 39,
+          "coordinates": [
+            {
+              "lat": 40.7142308,
+              "lng": -74.0033566
+            },
+            {
+              "lat": 40.7142517,
+              "lng": -74.0034312
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 40,
+          "coordinates": [
+            {
+              "lat": 40.7142164,
+              "lng": -74.0025577
+            },
+            {
+              "lat": 40.7126779,
+              "lng": -74.0043366
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 41,
+          "coordinates": [
+            {
+              "lat": 40.7131087,
+              "lng": -74.0042573
+            },
+            {
+              "lat": 40.7130074,
+              "lng": -74.0040629
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 42,
+          "coordinates": [
+            {
+              "lat": 40.7136595,
+              "lng": -74.0037607
+            },
+            {
+              "lat": 40.7132415,
+              "lng": -74.0041074
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 43,
+          "coordinates": [
+            {
+              "lat": 40.7140766,
+              "lng": -74.0032201
+            },
+            {
+              "lat": 40.7140372,
+              "lng": -74.0032568
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 44,
+          "coordinates": [
+            {
+              "lat": 40.715461,
+              "lng": -74.0029508
+            },
+            {
+              "lat": 40.7151655,
+              "lng": -74.0023055
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 45,
+          "coordinates": [
+            {
+              "lat": 40.715236,
+              "lng": -74.00542
+            },
+            {
+              "lat": 40.7146811,
+              "lng": -74.0058866
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 46,
+          "coordinates": [
+            {
+              "lat": 40.7141387,
+              "lng": -74.0034162
+            },
+            {
+              "lat": 40.7136604,
+              "lng": -74.003649
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 47,
+          "coordinates": [
+            {
+              "lat": 40.7149194,
+              "lng": -74.0045497
+            },
+            {
+              "lat": 40.7150689,
+              "lng": -74.0044264
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 48,
+          "coordinates": [
+            {
+              "lat": 40.7150249,
+              "lng": -74.0047735
+            },
+            {
+              "lat": 40.7152558,
+              "lng": -74.004582
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 49,
+          "coordinates": [
+            {
+              "lat": 40.7158281,
+              "lng": -74.0037887
+            },
+            {
+              "lat": 40.7158123,
+              "lng": -74.0038016
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 50,
+          "coordinates": [
+            {
+              "lat": 40.7156494,
+              "lng": -74.0045499
+            },
+            {
+              "lat": 40.7156141,
+              "lng": -74.0044801
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 51,
+          "coordinates": [
+            {
+              "lat": 40.713863,
+              "lng": -74.0045089
+            },
+            {
+              "lat": 40.7136386,
+              "lng": -74.0046906
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 52,
+          "coordinates": [
+            {
+              "lat": 40.7127626,
+              "lng": -74.0049127
+            },
+            {
+              "lat": 40.713242,
+              "lng": -74.0045352
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 53,
+          "coordinates": [
+            {
+              "lat": 40.7125443,
+              "lng": -74.0033657
+            },
+            {
+              "lat": 40.7125686,
+              "lng": -74.0033757
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 54,
+          "coordinates": [
+            {
+              "lat": 40.712523,
+              "lng": -74.0033569
+            },
+            {
+              "lat": 40.7125443,
+              "lng": -74.0033657
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 55,
+          "coordinates": [
+            {
+              "lat": 40.7125911,
+              "lng": -74.003385
+            },
+            {
+              "lat": 40.712615,
+              "lng": -74.0033948
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 56,
+          "coordinates": [
+            {
+              "lat": 40.7125686,
+              "lng": -74.0033757
+            },
+            {
+              "lat": 40.7125911,
+              "lng": -74.003385
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 57,
+          "coordinates": [
+            {
+              "lat": 40.712615,
+              "lng": -74.0033948
+            },
+            {
+              "lat": 40.7126362,
+              "lng": -74.0034036
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 58,
+          "coordinates": [
+            {
+              "lat": 40.7121246,
+              "lng": -74.0027117
+            },
+            {
+              "lat": 40.712523,
+              "lng": -74.0033569
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 59,
+          "coordinates": [
+            {
+              "lat": 40.7139411,
+              "lng": -74.0032545
+            },
+            {
+              "lat": 40.713994,
+              "lng": -74.0033827
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 60,
+          "coordinates": [
+            {
+              "lat": 40.713994,
+              "lng": -74.0033827
+            },
+            {
+              "lat": 40.7140732,
+              "lng": -74.003509
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 61,
+          "coordinates": [
+            {
+              "lat": 40.7157072,
+              "lng": -74.0030779
+            },
+            {
+              "lat": 40.7156309,
+              "lng": -74.002917
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 62,
+          "coordinates": [
+            {
+              "lat": 40.7155926,
+              "lng": -74.0029
+            },
+            {
+              "lat": 40.7160809,
+              "lng": -74.0025028
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 63,
+          "coordinates": [
+            {
+              "lat": 40.7161678,
+              "lng": -74.0027227
+            },
+            {
+              "lat": 40.7156984,
+              "lng": -74.003122
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 64,
+          "coordinates": [
+            {
+              "lat": 40.7154779,
+              "lng": -74.0029057
+            },
+            {
+              "lat": 40.7155926,
+              "lng": -74.0029
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 65,
+          "coordinates": [
+            {
+              "lat": 40.7139313,
+              "lng": -74.0044034
+            },
+            {
+              "lat": 40.7136227,
+              "lng": -74.0037447
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 66,
+          "coordinates": [
+            {
+              "lat": 40.713774,
+              "lng": -74.0036533
+            },
+            {
+              "lat": 40.7137845,
+              "lng": -74.003673
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 67,
+          "coordinates": [
+            {
+              "lat": 40.713765,
+              "lng": -74.0037187
+            },
+            {
+              "lat": 40.7140755,
+              "lng": -74.0043841
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 68,
+          "coordinates": [
+            {
+              "lat": 40.7144882,
+              "lng": -74.0039999
+            },
+            {
+              "lat": 40.7140395,
+              "lng": -74.0043682
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 69,
+          "coordinates": [
+            {
+              "lat": 40.7140395,
+              "lng": -74.0043682
+            },
+            {
+              "lat": 40.7139353,
+              "lng": -74.0043715
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 70,
+          "coordinates": [
+            {
+              "lat": 40.7139313,
+              "lng": -74.0044034
+            },
+            {
+              "lat": 40.713964,
+              "lng": -74.0044727
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 71,
+          "coordinates": [
+            {
+              "lat": 40.7139889,
+              "lng": -74.0044893
+            },
+            {
+              "lat": 40.7135813,
+              "lng": -74.004804
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 72,
+          "coordinates": [
+            {
+              "lat": 40.7139889,
+              "lng": -74.0044893
+            },
+            {
+              "lat": 40.7140993,
+              "lng": -74.0044872
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 73,
+          "coordinates": [
+            {
+              "lat": 40.7140993,
+              "lng": -74.0044872
+            },
+            {
+              "lat": 40.7145548,
+              "lng": -74.0040977
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 74,
+          "coordinates": [
+            {
+              "lat": 40.7141073,
+              "lng": -74.0044578
+            },
+            {
+              "lat": 40.7140755,
+              "lng": -74.0043841
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 75,
+          "coordinates": [
+            {
+              "lat": 40.713964,
+              "lng": -74.0044727
+            },
+            {
+              "lat": 40.7146002,
+              "lng": -74.0058666
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 76,
+          "coordinates": [
+            {
+              "lat": 40.7129058,
+              "lng": -74.005199
+            },
+            {
+              "lat": 40.7129119,
+              "lng": -74.0044925
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 77,
+          "coordinates": [
+            {
+              "lat": 40.7125241,
+              "lng": -74.0049079
+            },
+            {
+              "lat": 40.7131409,
+              "lng": -74.0042666
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 78,
+          "coordinates": [
+            {
+              "lat": 40.7145548,
+              "lng": -74.0040977
+            },
+            {
+              "lat": 40.7146382,
+              "lng": -74.0040141
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 79,
+          "coordinates": [
+            {
+              "lat": 40.7127626,
+              "lng": -74.0049127
+            },
+            {
+              "lat": 40.7126712,
+              "lng": -74.0047265
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 80,
+          "coordinates": [
+            {
+              "lat": 40.7126609,
+              "lng": -74.0043916
+            },
+            {
+              "lat": 40.7126491,
+              "lng": -74.0043646
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 81,
+          "coordinates": [
+            {
+              "lat": 40.7134819,
+              "lng": -74.0048174
+            },
+            {
+              "lat": 40.7139851,
+              "lng": -74.0058972
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 82,
+          "coordinates": [
+            {
+              "lat": 40.7150763,
+              "lng": -74.0027143
+            },
+            {
+              "lat": 40.715343,
+              "lng": -74.0029343
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 83,
+          "coordinates": [
+            {
+              "lat": 40.7142181,
+              "lng": -74.0061926
+            },
+            {
+              "lat": 40.7142926,
+              "lng": -74.0063571
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 84,
+          "coordinates": [
+            {
+              "lat": 40.7135748,
+              "lng": -74.00479
+            },
+            {
+              "lat": 40.7142181,
+              "lng": -74.0061926
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 85,
+          "coordinates": [
+            {
+              "lat": 40.7135748,
+              "lng": -74.00479
+            },
+            {
+              "lat": 40.7135453,
+              "lng": -74.0047239
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 86,
+          "coordinates": [
+            {
+              "lat": 40.7135453,
+              "lng": -74.0047239
+            },
+            {
+              "lat": 40.713245,
+              "lng": -74.0040602
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 87,
+          "coordinates": [
+            {
+              "lat": 40.7127823,
+              "lng": -74.0032285
+            },
+            {
+              "lat": 40.7124061,
+              "lng": -74.0024537
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 88,
+          "coordinates": [
+            {
+              "lat": 40.7156309,
+              "lng": -74.002917
+            },
+            {
+              "lat": 40.7152567,
+              "lng": -74.0021402
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 89,
+          "coordinates": [
+            {
+              "lat": 40.7156984,
+              "lng": -74.003122
+            },
+            {
+              "lat": 40.7155596,
+              "lng": -74.0031521
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 90,
+          "coordinates": [
+            {
+              "lat": 40.7140732,
+              "lng": -74.003509
+            },
+            {
+              "lat": 40.7144857,
+              "lng": -74.0040456
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 91,
+          "coordinates": [
+            {
+              "lat": 40.7145298,
+              "lng": -74.0040978
+            },
+            {
+              "lat": 40.7151563,
+              "lng": -74.0054033
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 92,
+          "coordinates": [
+            {
+              "lat": 40.7153352,
+              "lng": -74.005444
+            },
+            {
+              "lat": 40.7152736,
+              "lng": -74.0053023
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 93,
+          "coordinates": [
+            {
+              "lat": 40.7158952,
+              "lng": -74.0070279
+            },
+            {
+              "lat": 40.7152175,
+              "lng": -74.0055423
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 94,
+          "coordinates": [
+            {
+              "lat": 40.7147849,
+              "lng": -74.0059378
+            },
+            {
+              "lat": 40.7147093,
+              "lng": -74.0057749
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 95,
+          "coordinates": [
+            {
+              "lat": 40.7146033,
+              "lng": -74.0058307
+            },
+            {
+              "lat": 40.71418,
+              "lng": -74.0061729
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 96,
+          "coordinates": [
+            {
+              "lat": 40.7141096,
+              "lng": -74.0031879
+            },
+            {
+              "lat": 40.7146769,
+              "lng": -74.0025188
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 97,
+          "coordinates": [
+            {
+              "lat": 40.7147001,
+              "lng": -74.0030441
+            },
+            {
+              "lat": 40.7145714,
+              "lng": -74.002574
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 98,
+          "coordinates": [
+            {
+              "lat": 40.714753,
+              "lng": -74.0027609
+            },
+            {
+              "lat": 40.7145593,
+              "lng": -74.0028431
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 99,
+          "coordinates": [
+            {
+              "lat": 40.7142676,
+              "lng": -74.003186
+            },
+            {
+              "lat": 40.7142063,
+              "lng": -74.003269
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 100,
+          "coordinates": [
+            {
+              "lat": 40.7140766,
+              "lng": -74.0032201
+            },
+            {
+              "lat": 40.7141096,
+              "lng": -74.0031879
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 101,
+          "coordinates": [
+            {
+              "lat": 40.7147243,
+              "lng": -74.0031506
+            },
+            {
+              "lat": 40.7147475,
+              "lng": -74.0032538
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 102,
+          "coordinates": [
+            {
+              "lat": 40.7146811,
+              "lng": -74.0033271
+            },
+            {
+              "lat": 40.7142387,
+              "lng": -74.0034898
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 103,
+          "coordinates": [
+            {
+              "lat": 40.7155142,
+              "lng": -74.0031209
+            },
+            {
+              "lat": 40.7152405,
+              "lng": -74.0052981
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 104,
+          "coordinates": [
+            {
+              "lat": 40.7155596,
+              "lng": -74.0031521
+            },
+            {
+              "lat": 40.7146811,
+              "lng": -74.0033271
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 105,
+          "coordinates": [
+            {
+              "lat": 40.7157072,
+              "lng": -74.0030779
+            },
+            {
+              "lat": 40.7161678,
+              "lng": -74.0027227
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 106,
+          "coordinates": [
+            {
+              "lat": 40.7157868,
+              "lng": -74.0048403
+            },
+            {
+              "lat": 40.7157054,
+              "lng": -74.004667
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 107,
+          "coordinates": [
+            {
+              "lat": 40.715764,
+              "lng": -74.0048595
+            },
+            {
+              "lat": 40.7158357,
+              "lng": -74.0050536
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 108,
+          "coordinates": [
+            {
+              "lat": 40.7162559,
+              "lng": -74.0061685
+            },
+            {
+              "lat": 40.7157617,
+              "lng": -74.0050873
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 109,
+          "coordinates": [
+            {
+              "lat": 40.7165201,
+              "lng": -74.0065383
+            },
+            {
+              "lat": 40.7158433,
+              "lng": -74.0050475
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 110,
+          "coordinates": [
+            {
+              "lat": 40.7163931,
+              "lng": -74.0045837
+            },
+            {
+              "lat": 40.7163931,
+              "lng": -74.0045837
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 111,
+          "coordinates": [
+            {
+              "lat": 40.7147477,
+              "lng": -74.004338
+            },
+            {
+              "lat": 40.7150992,
+              "lng": -74.0040459
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 112,
+          "coordinates": [
+            {
+              "lat": 40.7126797,
+              "lng": -74.0044459
+            },
+            {
+              "lat": 40.7126609,
+              "lng": -74.0043916
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 113,
+          "coordinates": [
+            {
+              "lat": 40.7119143,
+              "lng": -74.0041034
+            },
+            {
+              "lat": 40.7126797,
+              "lng": -74.0044459
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 114,
+          "coordinates": [
+            {
+              "lat": 40.713273,
+              "lng": -74.0039028
+            },
+            {
+              "lat": 40.7135518,
+              "lng": -74.003684
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 115,
+          "coordinates": [
+            {
+              "lat": 40.71312,
+              "lng": -74.0039898
+            },
+            {
+              "lat": 40.7134052,
+              "lng": -74.0037255
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 116,
+          "coordinates": [
+            {
+              "lat": 40.7133129,
+              "lng": -74.004452
+            },
+            {
+              "lat": 40.713155,
+              "lng": -74.004109
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 117,
+          "coordinates": [
+            {
+              "lat": 40.7136103,
+              "lng": -74.0035418
+            },
+            {
+              "lat": 40.713643,
+              "lng": -74.0036108
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 118,
+          "coordinates": [
+            {
+              "lat": 40.7160997,
+              "lng": -74.0038958
+            },
+            {
+              "lat": 40.7160364,
+              "lng": -74.0039501
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 119,
+          "coordinates": [
+            {
+              "lat": 40.7139851,
+              "lng": -74.0058972
+            },
+            {
+              "lat": 40.7141733,
+              "lng": -74.0063041
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 120,
+          "coordinates": [
+            {
+              "lat": 40.7127825,
+              "lng": -74.004899
+            },
+            {
+              "lat": 40.7127902,
+              "lng": -74.0049097
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 121,
+          "coordinates": [
+            {
+              "lat": 40.71286,
+              "lng": -74.0048104
+            },
+            {
+              "lat": 40.7128809,
+              "lng": -74.0047863
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 122,
+          "coordinates": [
+            {
+              "lat": 40.7125038,
+              "lng": -74.0048824
+            },
+            {
+              "lat": 40.7124422,
+              "lng": -74.0048052
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 123,
+          "coordinates": [
+            {
+              "lat": 40.7128809,
+              "lng": -74.0047863
+            },
+            {
+              "lat": 40.7129096,
+              "lng": -74.0047572
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 124,
+          "coordinates": [
+            {
+              "lat": 40.7127048,
+              "lng": -74.0049929
+            },
+            {
+              "lat": 40.712683,
+              "lng": -74.0050201
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 125,
+          "coordinates": [
+            {
+              "lat": 40.712683,
+              "lng": -74.0050201
+            },
+            {
+              "lat": 40.7123167,
+              "lng": -74.0053307
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 126,
+          "coordinates": [
+            {
+              "lat": 40.7125241,
+              "lng": -74.0049079
+            },
+            {
+              "lat": 40.7126415,
+              "lng": -74.005055
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 127,
+          "coordinates": [
+            {
+              "lat": 40.7128803,
+              "lng": -74.0053585
+            },
+            {
+              "lat": 40.713038,
+              "lng": -74.0052387
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 128,
+          "coordinates": [
+            {
+              "lat": 40.7134382,
+              "lng": -74.0049173
+            },
+            {
+              "lat": 40.7134076,
+              "lng": -74.0049401
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 129,
+          "coordinates": [
+            {
+              "lat": 40.71322,
+              "lng": -74.0051442
+            },
+            {
+              "lat": 40.7132024,
+              "lng": -74.0051059
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 130,
+          "coordinates": [
+            {
+              "lat": 40.7125241,
+              "lng": -74.0049079
+            },
+            {
+              "lat": 40.7122273,
+              "lng": -74.0056763
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 131,
+          "coordinates": [
+            {
+              "lat": 40.7125478,
+              "lng": -74.0048733
+            },
+            {
+              "lat": 40.7125264,
+              "lng": -74.004849
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 132,
+          "coordinates": [
+            {
+              "lat": 40.7125241,
+              "lng": -74.0049079
+            },
+            {
+              "lat": 40.7125038,
+              "lng": -74.0048824
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 133,
+          "coordinates": [
+            {
+              "lat": 40.7125264,
+              "lng": -74.004849
+            },
+            {
+              "lat": 40.7124983,
+              "lng": -74.0048136
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 134,
+          "coordinates": [
+            {
+              "lat": 40.712686,
+              "lng": -74.0044642
+            },
+            {
+              "lat": 40.7126797,
+              "lng": -74.0044459
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 135,
+          "coordinates": [
+            {
+              "lat": 40.7127096,
+              "lng": -74.0055119
+            },
+            {
+              "lat": 40.712856,
+              "lng": -74.005735
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 136,
+          "coordinates": [
+            {
+              "lat": 40.7138467,
+              "lng": -74.0057934
+            },
+            {
+              "lat": 40.7134382,
+              "lng": -74.0049173
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 137,
+          "coordinates": [
+            {
+              "lat": 40.7136578,
+              "lng": -74.005342
+            },
+            {
+              "lat": 40.713644,
+              "lng": -74.005353
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 138,
+          "coordinates": [
+            {
+              "lat": 40.7137219,
+              "lng": -74.0054817
+            },
+            {
+              "lat": 40.7135943,
+              "lng": -74.0055079
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 139,
+          "coordinates": [
+            {
+              "lat": 40.7135948,
+              "lng": -74.0052032
+            },
+            {
+              "lat": 40.7135138,
+              "lng": -74.005331
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 140,
+          "coordinates": [
+            {
+              "lat": 40.7131409,
+              "lng": -74.0057463
+            },
+            {
+              "lat": 40.7131306,
+              "lng": -74.0057547
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 141,
+          "coordinates": [
+            {
+              "lat": 40.7131306,
+              "lng": -74.0057547
+            },
+            {
+              "lat": 40.7131018,
+              "lng": -74.0057772
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 142,
+          "coordinates": [
+            {
+              "lat": 40.7135847,
+              "lng": -74.0059334
+            },
+            {
+              "lat": 40.7136075,
+              "lng": -74.0059796
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 143,
+          "coordinates": [
+            {
+              "lat": 40.7135151,
+              "lng": -74.0035798
+            },
+            {
+              "lat": 40.7134997,
+              "lng": -74.0035561
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 144,
+          "coordinates": [
+            {
+              "lat": 40.7140372,
+              "lng": -74.0032568
+            },
+            {
+              "lat": 40.713998,
+              "lng": -74.003294
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 145,
+          "coordinates": [
+            {
+              "lat": 40.713654,
+              "lng": -74.0034344
+            },
+            {
+              "lat": 40.7136338,
+              "lng": -74.0034023
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 146,
+          "coordinates": [
+            {
+              "lat": 40.7147903,
+              "lng": -74.0030207
+            },
+            {
+              "lat": 40.7142676,
+              "lng": -74.003186
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 147,
+          "coordinates": [
+            {
+              "lat": 40.7142676,
+              "lng": -74.003186
+            },
+            {
+              "lat": 40.7142154,
+              "lng": -74.0031876
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 148,
+          "coordinates": [
+            {
+              "lat": 40.7131535,
+              "lng": -74.0038815
+            },
+            {
+              "lat": 40.7131669,
+              "lng": -74.0039102
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 149,
+          "coordinates": [
+            {
+              "lat": 40.7130074,
+              "lng": -74.0040629
+            },
+            {
+              "lat": 40.7129912,
+              "lng": -74.004032
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 150,
+          "coordinates": [
+            {
+              "lat": 40.7128404,
+              "lng": -74.0033635
+            },
+            {
+              "lat": 40.7130151,
+              "lng": -74.0037505
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 151,
+          "coordinates": [
+            {
+              "lat": 40.7130151,
+              "lng": -74.0037505
+            },
+            {
+              "lat": 40.7131019,
+              "lng": -74.0039282
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 152,
+          "coordinates": [
+            {
+              "lat": 40.7131019,
+              "lng": -74.0039282
+            },
+            {
+              "lat": 40.71312,
+              "lng": -74.0039898
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 153,
+          "coordinates": [
+            {
+              "lat": 40.7130986,
+              "lng": -74.0038702
+            },
+            {
+              "lat": 40.7130986,
+              "lng": -74.0038702
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 154,
+          "coordinates": [
+            {
+              "lat": 40.7130634,
+              "lng": -74.0039034
+            },
+            {
+              "lat": 40.7130634,
+              "lng": -74.0039034
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 155,
+          "coordinates": [
+            {
+              "lat": 40.7130403,
+              "lng": -74.0039857
+            },
+            {
+              "lat": 40.7129605,
+              "lng": -74.0038008
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 156,
+          "coordinates": [
+            {
+              "lat": 40.7129605,
+              "lng": -74.0038008
+            },
+            {
+              "lat": 40.7127836,
+              "lng": -74.0034158
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 157,
+          "coordinates": [
+            {
+              "lat": 40.7130683,
+              "lng": -74.0037009
+            },
+            {
+              "lat": 40.7131535,
+              "lng": -74.0038815
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 158,
+          "coordinates": [
+            {
+              "lat": 40.7130683,
+              "lng": -74.0037009
+            },
+            {
+              "lat": 40.7128942,
+              "lng": -74.0033152
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 159,
+          "coordinates": [
+            {
+              "lat": 40.714378,
+              "lng": -74.0029518
+            },
+            {
+              "lat": 40.714378,
+              "lng": -74.0029518
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 160,
+          "coordinates": [
+            {
+              "lat": 40.7145593,
+              "lng": -74.0028431
+            },
+            {
+              "lat": 40.7145379,
+              "lng": -74.002851
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 161,
+          "coordinates": [
+            {
+              "lat": 40.7145379,
+              "lng": -74.002851
+            },
+            {
+              "lat": 40.714522,
+              "lng": -74.0028574
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 162,
+          "coordinates": [
+            {
+              "lat": 40.714378,
+              "lng": -74.0029518
+            },
+            {
+              "lat": 40.7141255,
+              "lng": -74.0031724
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 163,
+          "coordinates": [
+            {
+              "lat": 40.7142676,
+              "lng": -74.003186
+            },
+            {
+              "lat": 40.7142051,
+              "lng": -74.0031056
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 164,
+          "coordinates": [
+            {
+              "lat": 40.7147001,
+              "lng": -74.0030441
+            },
+            {
+              "lat": 40.7147093,
+              "lng": -74.0030842
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 165,
+          "coordinates": [
+            {
+              "lat": 40.7142593,
+              "lng": -74.0028048
+            },
+            {
+              "lat": 40.7143663,
+              "lng": -74.0028496
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 166,
+          "coordinates": [
+            {
+              "lat": 40.7144913,
+              "lng": -74.0029738
+            },
+            {
+              "lat": 40.7144991,
+              "lng": -74.0029891
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 167,
+          "coordinates": [
+            {
+              "lat": 40.7145095,
+              "lng": -74.0030093
+            },
+            {
+              "lat": 40.7144991,
+              "lng": -74.0029891
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 168,
+          "coordinates": [
+            {
+              "lat": 40.7145095,
+              "lng": -74.0030093
+            },
+            {
+              "lat": 40.7145513,
+              "lng": -74.0030909
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 169,
+          "coordinates": [
+            {
+              "lat": 40.7128845,
+              "lng": -74.0027991
+            },
+            {
+              "lat": 40.7128806,
+              "lng": -74.0028148
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 170,
+          "coordinates": [
+            {
+              "lat": 40.7128806,
+              "lng": -74.0028148
+            },
+            {
+              "lat": 40.7128749,
+              "lng": -74.0028376
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 171,
+          "coordinates": [
+            {
+              "lat": 40.7128749,
+              "lng": -74.0028376
+            },
+            {
+              "lat": 40.712871,
+              "lng": -74.0028534
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 172,
+          "coordinates": [
+            {
+              "lat": 40.712871,
+              "lng": -74.0028534
+            },
+            {
+              "lat": 40.7128527,
+              "lng": -74.0029269
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 173,
+          "coordinates": [
+            {
+              "lat": 40.7128527,
+              "lng": -74.0029269
+            },
+            {
+              "lat": 40.7128448,
+              "lng": -74.0029584
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 174,
+          "coordinates": [
+            {
+              "lat": 40.7124811,
+              "lng": -74.0024308
+            },
+            {
+              "lat": 40.7129206,
+              "lng": -74.0028739
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 175,
+          "coordinates": [
+            {
+              "lat": 40.7129206,
+              "lng": -74.0028739
+            },
+            {
+              "lat": 40.7129439,
+              "lng": -74.0028835
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 176,
+          "coordinates": [
+            {
+              "lat": 40.7131743,
+              "lng": -74.0025752
+            },
+            {
+              "lat": 40.7137809,
+              "lng": -74.0030687
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 177,
+          "coordinates": [
+            {
+              "lat": 40.7138529,
+              "lng": -74.003121
+            },
+            {
+              "lat": 40.713821,
+              "lng": -74.0030928
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 178,
+          "coordinates": [
+            {
+              "lat": 40.7123755,
+              "lng": -74.0043596
+            },
+            {
+              "lat": 40.7126491,
+              "lng": -74.0043646
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 179,
+          "coordinates": [
+            {
+              "lat": 40.7125715,
+              "lng": -74.0042222
+            },
+            {
+              "lat": 40.7126011,
+              "lng": -74.0041931
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 180,
+          "coordinates": [
+            {
+              "lat": 40.7129439,
+              "lng": -74.0028835
+            },
+            {
+              "lat": 40.7137116,
+              "lng": -74.0032079
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 181,
+          "coordinates": [
+            {
+              "lat": 40.7127398,
+              "lng": -74.0033182
+            },
+            {
+              "lat": 40.7125249,
+              "lng": -74.0041397
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 182,
+          "coordinates": [
+            {
+              "lat": 40.7127592,
+              "lng": -74.003302
+            },
+            {
+              "lat": 40.7128448,
+              "lng": -74.0029584
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 183,
+          "coordinates": [
+            {
+              "lat": 40.713272,
+              "lng": -74.0028989
+            },
+            {
+              "lat": 40.7132779,
+              "lng": -74.0028721
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 184,
+          "coordinates": [
+            {
+              "lat": 40.7132779,
+              "lng": -74.0028721
+            },
+            {
+              "lat": 40.7132816,
+              "lng": -74.0028559
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 185,
+          "coordinates": [
+            {
+              "lat": 40.7126732,
+              "lng": -74.003204
+            },
+            {
+              "lat": 40.7126857,
+              "lng": -74.0032075
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 186,
+          "coordinates": [
+            {
+              "lat": 40.7127398,
+              "lng": -74.0033182
+            },
+            {
+              "lat": 40.7127836,
+              "lng": -74.0034158
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 187,
+          "coordinates": [
+            {
+              "lat": 40.7126732,
+              "lng": -74.003204
+            },
+            {
+              "lat": 40.7123781,
+              "lng": -74.0025616
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 188,
+          "coordinates": [
+            {
+              "lat": 40.7126362,
+              "lng": -74.0034036
+            },
+            {
+              "lat": 40.7126699,
+              "lng": -74.0034166
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 189,
+          "coordinates": [
+            {
+              "lat": 40.7143858,
+              "lng": -74.003336
+            },
+            {
+              "lat": 40.7141387,
+              "lng": -74.0034162
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 190,
+          "coordinates": [
+            {
+              "lat": 40.7127537,
+              "lng": -74.0045249
+            },
+            {
+              "lat": 40.7124983,
+              "lng": -74.0048136
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 191,
+          "coordinates": [
+            {
+              "lat": 40.716249,
+              "lng": -74.0061529
+            },
+            {
+              "lat": 40.7158146,
+              "lng": -74.0064924
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 192,
+          "coordinates": [
+            {
+              "lat": 40.7131409,
+              "lng": -74.0042666
+            },
+            {
+              "lat": 40.7132415,
+              "lng": -74.0041074
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 193,
+          "coordinates": [
+            {
+              "lat": 40.7158509,
+              "lng": -74.0065865
+            },
+            {
+              "lat": 40.7162907,
+              "lng": -74.0062452
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 194,
+          "coordinates": [
+            {
+              "lat": 40.7127409,
+              "lng": -74.0043573
+            },
+            {
+              "lat": 40.7128973,
+              "lng": -74.0042063
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 195,
+          "coordinates": [
+            {
+              "lat": 40.7126797,
+              "lng": -74.0044459
+            },
+            {
+              "lat": 40.7130495,
+              "lng": -74.0041856
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 196,
+          "coordinates": [
+            {
+              "lat": 40.7130495,
+              "lng": -74.0041856
+            },
+            {
+              "lat": 40.7132126,
+              "lng": -74.0039544
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 197,
+          "coordinates": [
+            {
+              "lat": 40.7153816,
+              "lng": -74.0025779
+            },
+            {
+              "lat": 40.7155918,
+              "lng": -74.0030354
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 198,
+          "coordinates": [
+            {
+              "lat": 40.7157901,
+              "lng": -74.0034618
+            },
+            {
+              "lat": 40.7155918,
+              "lng": -74.0030354
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 199,
+          "coordinates": [
+            {
+              "lat": 40.714734,
+              "lng": -74.0031947
+            },
+            {
+              "lat": 40.7143858,
+              "lng": -74.003336
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 200,
+          "coordinates": [
+            {
+              "lat": 40.7151334,
+              "lng": -74.0051938
+            },
+            {
+              "lat": 40.7145774,
+              "lng": -74.004013
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 201,
+          "coordinates": [
+            {
+              "lat": 40.7135409,
+              "lng": -74.0047128
+            },
+            {
+              "lat": 40.7139353,
+              "lng": -74.0043715
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 202,
+          "coordinates": [
+            {
+              "lat": 40.7147093,
+              "lng": -74.0057749
+            },
+            {
+              "lat": 40.7141073,
+              "lng": -74.0044578
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 203,
+          "coordinates": [
+            {
+              "lat": 40.7146002,
+              "lng": -74.0058666
+            },
+            {
+              "lat": 40.7146779,
+              "lng": -74.0060242
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 204,
+          "coordinates": [
+            {
+              "lat": 40.7146812,
+              "lng": -74.0057614
+            },
+            {
+              "lat": 40.7146033,
+              "lng": -74.0058307
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 205,
+          "coordinates": [
+            {
+              "lat": 40.7147849,
+              "lng": -74.0059378
+            },
+            {
+              "lat": 40.7154394,
+              "lng": -74.0073871
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 206,
+          "coordinates": [
+            {
+              "lat": 40.7146779,
+              "lng": -74.0060242
+            },
+            {
+              "lat": 40.7147849,
+              "lng": -74.0059378
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 207,
+          "coordinates": [
+            {
+              "lat": 40.7131409,
+              "lng": -74.0057463
+            },
+            {
+              "lat": 40.7130525,
+              "lng": -74.0056711
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 208,
+          "coordinates": [
+            {
+              "lat": 40.7131461,
+              "lng": -74.0057422
+            },
+            {
+              "lat": 40.7131409,
+              "lng": -74.0057463
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 209,
+          "coordinates": [
+            {
+              "lat": 40.7137116,
+              "lng": -74.0032079
+            },
+            {
+              "lat": 40.7137419,
+              "lng": -74.0032338
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 210,
+          "coordinates": [
+            {
+              "lat": 40.713749,
+              "lng": -74.0035258
+            },
+            {
+              "lat": 40.7138001,
+              "lng": -74.0034793
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 211,
+          "coordinates": [
+            {
+              "lat": 40.7132126,
+              "lng": -74.0039544
+            },
+            {
+              "lat": 40.713273,
+              "lng": -74.0039028
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 212,
+          "coordinates": [
+            {
+              "lat": 40.7135518,
+              "lng": -74.003684
+            },
+            {
+              "lat": 40.713749,
+              "lng": -74.0035258
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 213,
+          "coordinates": [
+            {
+              "lat": 40.7140097,
+              "lng": -74.0033754
+            },
+            {
+              "lat": 40.7140097,
+              "lng": -74.0033754
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 214,
+          "coordinates": [
+            {
+              "lat": 40.713998,
+              "lng": -74.003294
+            },
+            {
+              "lat": 40.7139693,
+              "lng": -74.0033227
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 215,
+          "coordinates": [
+            {
+              "lat": 40.7143412,
+              "lng": -74.0032593
+            },
+            {
+              "lat": 40.7143412,
+              "lng": -74.0032593
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 216,
+          "coordinates": [
+            {
+              "lat": 40.7142178,
+              "lng": -74.00331
+            },
+            {
+              "lat": 40.7142308,
+              "lng": -74.0033566
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 217,
+          "coordinates": [
+            {
+              "lat": 40.7142117,
+              "lng": -74.0032883
+            },
+            {
+              "lat": 40.7142178,
+              "lng": -74.00331
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 218,
+          "coordinates": [
+            {
+              "lat": 40.7141037,
+              "lng": -74.0029752
+            },
+            {
+              "lat": 40.7141037,
+              "lng": -74.0029752
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 219,
+          "coordinates": [
+            {
+              "lat": 40.7142063,
+              "lng": -74.003269
+            },
+            {
+              "lat": 40.7142117,
+              "lng": -74.0032883
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 220,
+          "coordinates": [
+            {
+              "lat": 40.7126779,
+              "lng": -74.0043366
+            },
+            {
+              "lat": 40.7126491,
+              "lng": -74.0043646
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 221,
+          "coordinates": [
+            {
+              "lat": 40.7137809,
+              "lng": -74.0030687
+            },
+            {
+              "lat": 40.713821,
+              "lng": -74.0030928
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 222,
+          "coordinates": [
+            {
+              "lat": 40.7135642,
+              "lng": -74.0034585
+            },
+            {
+              "lat": 40.7135737,
+              "lng": -74.0034759
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 223,
+          "coordinates": [
+            {
+              "lat": 40.7135642,
+              "lng": -74.0034585
+            },
+            {
+              "lat": 40.7128565,
+              "lng": -74.0032294
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 224,
+          "coordinates": [
+            {
+              "lat": 40.7128942,
+              "lng": -74.0033152
+            },
+            {
+              "lat": 40.7128565,
+              "lng": -74.0032294
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 225,
+          "coordinates": [
+            {
+              "lat": 40.7126857,
+              "lng": -74.0032075
+            },
+            {
+              "lat": 40.7127823,
+              "lng": -74.0032285
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 226,
+          "coordinates": [
+            {
+              "lat": 40.7127592,
+              "lng": -74.003302
+            },
+            {
+              "lat": 40.712844,
+              "lng": -74.0032399
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 227,
+          "coordinates": [
+            {
+              "lat": 40.7128404,
+              "lng": -74.0033635
+            },
+            {
+              "lat": 40.7127992,
+              "lng": -74.0032734
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 228,
+          "coordinates": [
+            {
+              "lat": 40.712844,
+              "lng": -74.0032399
+            },
+            {
+              "lat": 40.7127823,
+              "lng": -74.0032285
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 229,
+          "coordinates": [
+            {
+              "lat": 40.7127592,
+              "lng": -74.003302
+            },
+            {
+              "lat": 40.7127398,
+              "lng": -74.0033182
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 230,
+          "coordinates": [
+            {
+              "lat": 40.7131177,
+              "lng": -74.0028239
+            },
+            {
+              "lat": 40.7131028,
+              "lng": -74.0028321
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 231,
+          "coordinates": [
+            {
+              "lat": 40.7131028,
+              "lng": -74.0028321
+            },
+            {
+              "lat": 40.7130359,
+              "lng": -74.0031269
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 232,
+          "coordinates": [
+            {
+              "lat": 40.7130359,
+              "lng": -74.0031269
+            },
+            {
+              "lat": 40.7130294,
+              "lng": -74.0031615
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 233,
+          "coordinates": [
+            {
+              "lat": 40.7128565,
+              "lng": -74.0032294
+            },
+            {
+              "lat": 40.712844,
+              "lng": -74.0032399
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 234,
+          "coordinates": [
+            {
+              "lat": 40.7148037,
+              "lng": -74.0030978
+            },
+            {
+              "lat": 40.7148037,
+              "lng": -74.0030978
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 235,
+          "coordinates": [
+            {
+              "lat": 40.7147475,
+              "lng": -74.0032538
+            },
+            {
+              "lat": 40.7147565,
+              "lng": -74.0032995
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 236,
+          "coordinates": [
+            {
+              "lat": 40.7147093,
+              "lng": -74.0030842
+            },
+            {
+              "lat": 40.714718,
+              "lng": -74.0031228
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 237,
+          "coordinates": [
+            {
+              "lat": 40.714718,
+              "lng": -74.0031228
+            },
+            {
+              "lat": 40.7147243,
+              "lng": -74.0031506
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 238,
+          "coordinates": [
+            {
+              "lat": 40.7151622,
+              "lng": -74.0032353
+            },
+            {
+              "lat": 40.7151699,
+              "lng": -74.0033092
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 239,
+          "coordinates": [
+            {
+              "lat": 40.7154372,
+              "lng": -74.0032228
+            },
+            {
+              "lat": 40.7152274,
+              "lng": -74.0033324
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 240,
+          "coordinates": [
+            {
+              "lat": 40.7157967,
+              "lng": -74.0038143
+            },
+            {
+              "lat": 40.7157781,
+              "lng": -74.0038296
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 241,
+          "coordinates": [
+            {
+              "lat": 40.7158123,
+              "lng": -74.0038016
+            },
+            {
+              "lat": 40.7157967,
+              "lng": -74.0038143
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 242,
+          "coordinates": [
+            {
+              "lat": 40.7157874,
+              "lng": -74.003822
+            },
+            {
+              "lat": 40.7156701,
+              "lng": -74.0035736
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 243,
+          "coordinates": [
+            {
+              "lat": 40.7156858,
+              "lng": -74.0035604
+            },
+            {
+              "lat": 40.7153135,
+              "lng": -74.003932
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 244,
+          "coordinates": [
+            {
+              "lat": 40.7156858,
+              "lng": -74.0035604
+            },
+            {
+              "lat": 40.7157104,
+              "lng": -74.003541
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 245,
+          "coordinates": [
+            {
+              "lat": 40.7151699,
+              "lng": -74.0033092
+            },
+            {
+              "lat": 40.7153681,
+              "lng": -74.0038243
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 246,
+          "coordinates": [
+            {
+              "lat": 40.7152274,
+              "lng": -74.0033324
+            },
+            {
+              "lat": 40.7149674,
+              "lng": -74.0035575
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 247,
+          "coordinates": [
+            {
+              "lat": 40.7152922,
+              "lng": -74.0038873
+            },
+            {
+              "lat": 40.7147796,
+              "lng": -74.0034585
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 248,
+          "coordinates": [
+            {
+              "lat": 40.7155983,
+              "lng": -74.0036332
+            },
+            {
+              "lat": 40.715253,
+              "lng": -74.0035849
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 249,
+          "coordinates": [
+            {
+              "lat": 40.7154372,
+              "lng": -74.0032228
+            },
+            {
+              "lat": 40.7154939,
+              "lng": -74.0032241
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 250,
+          "coordinates": [
+            {
+              "lat": 40.7154939,
+              "lng": -74.0032241
+            },
+            {
+              "lat": 40.7155502,
+              "lng": -74.003204
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 251,
+          "coordinates": [
+            {
+              "lat": 40.7151622,
+              "lng": -74.0032353
+            },
+            {
+              "lat": 40.7151607,
+              "lng": -74.0032159
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 252,
+          "coordinates": [
+            {
+              "lat": 40.7133952,
+              "lng": -74.0043944
+            },
+            {
+              "lat": 40.7133885,
+              "lng": -74.0043996
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 253,
+          "coordinates": [
+            {
+              "lat": 40.7137323,
+              "lng": -74.0045432
+            },
+            {
+              "lat": 40.7137267,
+              "lng": -74.0045303
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 254,
+          "coordinates": [
+            {
+              "lat": 40.7137323,
+              "lng": -74.0045432
+            },
+            {
+              "lat": 40.713737,
+              "lng": -74.0045546
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 255,
+          "coordinates": [
+            {
+              "lat": 40.7140166,
+              "lng": -74.0044302
+            },
+            {
+              "lat": 40.7142176,
+              "lng": -74.0043173
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 256,
+          "coordinates": [
+            {
+              "lat": 40.7137794,
+              "lng": -74.0040794
+            },
+            {
+              "lat": 40.7137697,
+              "lng": -74.0040872
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 257,
+          "coordinates": [
+            {
+              "lat": 40.7138308,
+              "lng": -74.0038365
+            },
+            {
+              "lat": 40.7138471,
+              "lng": -74.0038718
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 258,
+          "coordinates": [
+            {
+              "lat": 40.7138471,
+              "lng": -74.0038718
+            },
+            {
+              "lat": 40.7138448,
+              "lng": -74.0038901
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 259,
+          "coordinates": [
+            {
+              "lat": 40.7138827,
+              "lng": -74.0036486
+            },
+            {
+              "lat": 40.7139117,
+              "lng": -74.0036372
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 260,
+          "coordinates": [
+            {
+              "lat": 40.7139117,
+              "lng": -74.0036372
+            },
+            {
+              "lat": 40.713921,
+              "lng": -74.0036091
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 261,
+          "coordinates": [
+            {
+              "lat": 40.714561,
+              "lng": -74.0039151
+            },
+            {
+              "lat": 40.7144882,
+              "lng": -74.0039999
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 262,
+          "coordinates": [
+            {
+              "lat": 40.7143201,
+              "lng": -74.0036862
+            },
+            {
+              "lat": 40.7141387,
+              "lng": -74.0034162
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 263,
+          "coordinates": [
+            {
+              "lat": 40.7146382,
+              "lng": -74.0040141
+            },
+            {
+              "lat": 40.7146571,
+              "lng": -74.0039952
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 264,
+          "coordinates": [
+            {
+              "lat": 40.7146727,
+              "lng": -74.0039487
+            },
+            {
+              "lat": 40.7146916,
+              "lng": -74.0039333
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 265,
+          "coordinates": [
+            {
+              "lat": 40.7144857,
+              "lng": -74.0040456
+            },
+            {
+              "lat": 40.7145298,
+              "lng": -74.0040978
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 266,
+          "coordinates": [
+            {
+              "lat": 40.7145783,
+              "lng": -74.0038962
+            },
+            {
+              "lat": 40.714561,
+              "lng": -74.0039151
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 267,
+          "coordinates": [
+            {
+              "lat": 40.7146727,
+              "lng": -74.0039487
+            },
+            {
+              "lat": 40.7146409,
+              "lng": -74.003974
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 268,
+          "coordinates": [
+            {
+              "lat": 40.7146916,
+              "lng": -74.0039333
+            },
+            {
+              "lat": 40.7147069,
+              "lng": -74.0039213
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 269,
+          "coordinates": [
+            {
+              "lat": 40.7143072,
+              "lng": -74.0043092
+            },
+            {
+              "lat": 40.7145287,
+              "lng": -74.0047843
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 270,
+          "coordinates": [
+            {
+              "lat": 40.7149692,
+              "lng": -74.0049547
+            },
+            {
+              "lat": 40.7149496,
+              "lng": -74.00497
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 271,
+          "coordinates": [
+            {
+              "lat": 40.715236,
+              "lng": -74.00542
+            },
+            {
+              "lat": 40.7151334,
+              "lng": -74.0051938
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 272,
+          "coordinates": [
+            {
+              "lat": 40.7151563,
+              "lng": -74.0054033
+            },
+            {
+              "lat": 40.7152175,
+              "lng": -74.0055423
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 273,
+          "coordinates": [
+            {
+              "lat": 40.7151615,
+              "lng": -74.0053651
+            },
+            {
+              "lat": 40.7146812,
+              "lng": -74.0057614
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 274,
+          "coordinates": [
+            {
+              "lat": 40.7145505,
+              "lng": -74.0043928
+            },
+            {
+              "lat": 40.7144798,
+              "lng": -74.0044459
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 275,
+          "coordinates": [
+            {
+              "lat": 40.7145378,
+              "lng": -74.0045376
+            },
+            {
+              "lat": 40.7146091,
+              "lng": -74.0044955
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 276,
+          "coordinates": [
+            {
+              "lat": 40.7145206,
+              "lng": -74.0044766
+            },
+            {
+              "lat": 40.7145378,
+              "lng": -74.0045376
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 277,
+          "coordinates": [
+            {
+              "lat": 40.7146772,
+              "lng": -74.0044439
+            },
+            {
+              "lat": 40.7146091,
+              "lng": -74.0044955
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 278,
+          "coordinates": [
+            {
+              "lat": 40.7146926,
+              "lng": -74.0044325
+            },
+            {
+              "lat": 40.7146772,
+              "lng": -74.0044439
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 279,
+          "coordinates": [
+            {
+              "lat": 40.714516,
+              "lng": -74.0044587
+            },
+            {
+              "lat": 40.7145206,
+              "lng": -74.0044766
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 280,
+          "coordinates": [
+            {
+              "lat": 40.7146091,
+              "lng": -74.0044955
+            },
+            {
+              "lat": 40.7145505,
+              "lng": -74.0043928
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 281,
+          "coordinates": [
+            {
+              "lat": 40.7144798,
+              "lng": -74.0044459
+            },
+            {
+              "lat": 40.714516,
+              "lng": -74.0044587
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 282,
+          "coordinates": [
+            {
+              "lat": 40.7142517,
+              "lng": -74.0034312
+            },
+            {
+              "lat": 40.7145616,
+              "lng": -74.0038738
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 283,
+          "coordinates": [
+            {
+              "lat": 40.7150652,
+              "lng": -74.0039778
+            },
+            {
+              "lat": 40.7150652,
+              "lng": -74.0039778
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 284,
+          "coordinates": [
+            {
+              "lat": 40.7145875,
+              "lng": -74.0038521
+            },
+            {
+              "lat": 40.7145875,
+              "lng": -74.0038521
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 285,
+          "coordinates": [
+            {
+              "lat": 40.7153259,
+              "lng": -74.004794
+            },
+            {
+              "lat": 40.7150545,
+              "lng": -74.0050187
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 286,
+          "coordinates": [
+            {
+              "lat": 40.7152736,
+              "lng": -74.0053023
+            },
+            {
+              "lat": 40.7145616,
+              "lng": -74.0038738
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 287,
+          "coordinates": [
+            {
+              "lat": 40.7152405,
+              "lng": -74.0052981
+            },
+            {
+              "lat": 40.7151615,
+              "lng": -74.0053651
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 288,
+          "coordinates": [
+            {
+              "lat": 40.7151184,
+              "lng": -74.0049199
+            },
+            {
+              "lat": 40.7151184,
+              "lng": -74.0049199
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 289,
+          "coordinates": [
+            {
+              "lat": 40.7160695,
+              "lng": -74.0057924
+            },
+            {
+              "lat": 40.715958,
+              "lng": -74.0056298
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 290,
+          "coordinates": [
+            {
+              "lat": 40.7160804,
+              "lng": -74.0057837
+            },
+            {
+              "lat": 40.7160695,
+              "lng": -74.0057924
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 291,
+          "coordinates": [
+            {
+              "lat": 40.715958,
+              "lng": -74.0056298
+            },
+            {
+              "lat": 40.7159694,
+              "lng": -74.0056208
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 292,
+          "coordinates": [
+            {
+              "lat": 40.7159694,
+              "lng": -74.0056208
+            },
+            {
+              "lat": 40.7159833,
+              "lng": -74.0056097
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 293,
+          "coordinates": [
+            {
+              "lat": 40.7159833,
+              "lng": -74.0056097
+            },
+            {
+              "lat": 40.7159963,
+              "lng": -74.0055995
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 294,
+          "coordinates": [
+            {
+              "lat": 40.715997,
+              "lng": -74.0056387
+            },
+            {
+              "lat": 40.715997,
+              "lng": -74.0056387
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 295,
+          "coordinates": [
+            {
+              "lat": 40.7159071,
+              "lng": -74.0063692
+            },
+            {
+              "lat": 40.7159381,
+              "lng": -74.006379
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 296,
+          "coordinates": [
+            {
+              "lat": 40.7159381,
+              "lng": -74.006379
+            },
+            {
+              "lat": 40.7159551,
+              "lng": -74.0063841
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 297,
+          "coordinates": [
+            {
+              "lat": 40.7159071,
+              "lng": -74.0063692
+            },
+            {
+              "lat": 40.7158929,
+              "lng": -74.0063644
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 298,
+          "coordinates": [
+            {
+              "lat": 40.7157602,
+              "lng": -74.006018
+            },
+            {
+              "lat": 40.7156551,
+              "lng": -74.0060964
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 299,
+          "coordinates": [
+            {
+              "lat": 40.7156551,
+              "lng": -74.0060964
+            },
+            {
+              "lat": 40.7156404,
+              "lng": -74.0061074
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 300,
+          "coordinates": [
+            {
+              "lat": 40.7158929,
+              "lng": -74.0063644
+            },
+            {
+              "lat": 40.7158733,
+              "lng": -74.0063582
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 301,
+          "coordinates": [
+            {
+              "lat": 40.715872,
+              "lng": -74.0063336
+            },
+            {
+              "lat": 40.715872,
+              "lng": -74.0063336
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 302,
+          "coordinates": [
+            {
+              "lat": 40.715836,
+              "lng": -74.0063841
+            },
+            {
+              "lat": 40.7158318,
+              "lng": -74.0064104
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 303,
+          "coordinates": [
+            {
+              "lat": 40.7158224,
+              "lng": -74.0064706
+            },
+            {
+              "lat": 40.7158196,
+              "lng": -74.0064883
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 304,
+          "coordinates": [
+            {
+              "lat": 40.7158285,
+              "lng": -74.0064317
+            },
+            {
+              "lat": 40.7158224,
+              "lng": -74.0064706
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 305,
+          "coordinates": [
+            {
+              "lat": 40.7158318,
+              "lng": -74.0064104
+            },
+            {
+              "lat": 40.7158285,
+              "lng": -74.0064317
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 306,
+          "coordinates": [
+            {
+              "lat": 40.715798,
+              "lng": -74.0061716
+            },
+            {
+              "lat": 40.715798,
+              "lng": -74.0061716
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 307,
+          "coordinates": [
+            {
+              "lat": 40.7158303,
+              "lng": -74.006316
+            },
+            {
+              "lat": 40.715787,
+              "lng": -74.0062184
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 308,
+          "coordinates": [
+            {
+              "lat": 40.7157831,
+              "lng": -74.0063257
+            },
+            {
+              "lat": 40.7157575,
+              "lng": -74.0062679
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 309,
+          "coordinates": [
+            {
+              "lat": 40.7158186,
+              "lng": -74.0063366
+            },
+            {
+              "lat": 40.7157949,
+              "lng": -74.0063293
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 310,
+          "coordinates": [
+            {
+              "lat": 40.7157949,
+              "lng": -74.0063293
+            },
+            {
+              "lat": 40.7157831,
+              "lng": -74.0063257
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 311,
+          "coordinates": [
+            {
+              "lat": 40.7157608,
+              "lng": -74.0062513
+            },
+            {
+              "lat": 40.7157665,
+              "lng": -74.0062232
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 312,
+          "coordinates": [
+            {
+              "lat": 40.7157608,
+              "lng": -74.0062513
+            },
+            {
+              "lat": 40.7157575,
+              "lng": -74.0062679
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 313,
+          "coordinates": [
+            {
+              "lat": 40.7157513,
+              "lng": -74.0063127
+            },
+            {
+              "lat": 40.7157379,
+              "lng": -74.0063229
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 314,
+          "coordinates": [
+            {
+              "lat": 40.7157628,
+              "lng": -74.0063036
+            },
+            {
+              "lat": 40.7157513,
+              "lng": -74.0063127
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 315,
+          "coordinates": [
+            {
+              "lat": 40.7157861,
+              "lng": -74.0061035
+            },
+            {
+              "lat": 40.7158396,
+              "lng": -74.0060355
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 316,
+          "coordinates": [
+            {
+              "lat": 40.7157797,
+              "lng": -74.0061505
+            },
+            {
+              "lat": 40.7157836,
+              "lng": -74.0061224
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 317,
+          "coordinates": [
+            {
+              "lat": 40.7157836,
+              "lng": -74.0061224
+            },
+            {
+              "lat": 40.7157861,
+              "lng": -74.0061035
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 318,
+          "coordinates": [
+            {
+              "lat": 40.7157445,
+              "lng": -74.0061747
+            },
+            {
+              "lat": 40.7156809,
+              "lng": -74.0061551
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 319,
+          "coordinates": [
+            {
+              "lat": 40.7156809,
+              "lng": -74.0061551
+            },
+            {
+              "lat": 40.7156585,
+              "lng": -74.0061473
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 320,
+          "coordinates": [
+            {
+              "lat": 40.7157153,
+              "lng": -74.0059273
+            },
+            {
+              "lat": 40.7156129,
+              "lng": -74.0060017
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 321,
+          "coordinates": [
+            {
+              "lat": 40.7156129,
+              "lng": -74.0060017
+            },
+            {
+              "lat": 40.7155977,
+              "lng": -74.0060129
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 322,
+          "coordinates": [
+            {
+              "lat": 40.7152463,
+              "lng": -74.0055542
+            },
+            {
+              "lat": 40.7153274,
+              "lng": -74.0054845
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 323,
+          "coordinates": [
+            {
+              "lat": 40.7158147,
+              "lng": -74.0065126
+            },
+            {
+              "lat": 40.7153352,
+              "lng": -74.005444
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 324,
+          "coordinates": [
+            {
+              "lat": 40.7152463,
+              "lng": -74.0055542
+            },
+            {
+              "lat": 40.7147849,
+              "lng": -74.0059378
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 325,
+          "coordinates": [
+            {
+              "lat": 40.7157617,
+              "lng": -74.0050873
+            },
+            {
+              "lat": 40.7156843,
+              "lng": -74.004926
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 326,
+          "coordinates": [
+            {
+              "lat": 40.7157831,
+              "lng": -74.0050957
+            },
+            {
+              "lat": 40.7153274,
+              "lng": -74.0054845
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 327,
+          "coordinates": [
+            {
+              "lat": 40.7158357,
+              "lng": -74.0050536
+            },
+            {
+              "lat": 40.7157831,
+              "lng": -74.0050957
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 328,
+          "coordinates": [
+            {
+              "lat": 40.7166024,
+              "lng": -74.0053645
+            },
+            {
+              "lat": 40.7158357,
+              "lng": -74.0050536
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 329,
+          "coordinates": [
+            {
+              "lat": 40.7138001,
+              "lng": -74.0034793
+            },
+            {
+              "lat": 40.7139579,
+              "lng": -74.0030498
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 330,
+          "coordinates": [
+            {
+              "lat": 40.7154404,
+              "lng": -74.0030194
+            },
+            {
+              "lat": 40.7154404,
+              "lng": -74.0030194
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "pedestrian"
+        },
+        {
+          "segment_id": 331,
+          "coordinates": [
+            {
+              "lat": 40.715461,
+              "lng": -74.0029508
+            },
+            {
+              "lat": 40.7154715,
+              "lng": -74.0029843
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 332,
+          "coordinates": [
+            {
+              "lat": 40.7154715,
+              "lng": -74.0029843
+            },
+            {
+              "lat": 40.7154802,
+              "lng": -74.0030123
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 333,
+          "coordinates": [
+            {
+              "lat": 40.7141387,
+              "lng": -74.0034162
+            },
+            {
+              "lat": 40.7138001,
+              "lng": -74.0034793
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 334,
+          "coordinates": [
+            {
+              "lat": 40.712483,
+              "lng": -74.0047961
+            },
+            {
+              "lat": 40.7128511,
+              "lng": -74.0043304
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "proposed"
+        },
+        {
+          "segment_id": 335,
+          "coordinates": [
+            {
+              "lat": 40.7134052,
+              "lng": -74.0037255
+            },
+            {
+              "lat": 40.7136103,
+              "lng": -74.0035418
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 336,
+          "coordinates": [
+            {
+              "lat": 40.7146811,
+              "lng": -74.0058866
+            },
+            {
+              "lat": 40.7145386,
+              "lng": -74.0060039
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 337,
+          "coordinates": [
+            {
+              "lat": 40.7134819,
+              "lng": -74.0048174
+            },
+            {
+              "lat": 40.7133129,
+              "lng": -74.004452
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 338,
+          "coordinates": [
+            {
+              "lat": 40.7160045,
+              "lng": -74.0070792
+            },
+            {
+              "lat": 40.715236,
+              "lng": -74.00542
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 339,
+          "coordinates": [
+            {
+              "lat": 40.7145547,
+              "lng": -74.0029385
+            },
+            {
+              "lat": 40.7145347,
+              "lng": -74.0029281
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 340,
+          "coordinates": [
+            {
+              "lat": 40.7145347,
+              "lng": -74.0029281
+            },
+            {
+              "lat": 40.7145201,
+              "lng": -74.0029205
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 341,
+          "coordinates": [
+            {
+              "lat": 40.7145056,
+              "lng": -74.0027856
+            },
+            {
+              "lat": 40.7144963,
+              "lng": -74.0028042
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 342,
+          "coordinates": [
+            {
+              "lat": 40.7144418,
+              "lng": -74.0031276
+            },
+            {
+              "lat": 40.7144441,
+              "lng": -74.0029942
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 343,
+          "coordinates": [
+            {
+              "lat": 40.7144488,
+              "lng": -74.0027231
+            },
+            {
+              "lat": 40.7144488,
+              "lng": -74.0027231
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 344,
+          "coordinates": [
+            {
+              "lat": 40.7145641,
+              "lng": -74.0029431
+            },
+            {
+              "lat": 40.7145547,
+              "lng": -74.0029385
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 345,
+          "coordinates": [
+            {
+              "lat": 40.712668,
+              "lng": -74.0044121
+            },
+            {
+              "lat": 40.7127409,
+              "lng": -74.0043573
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        }
+      ]
+    },
+    "safer": {
+      "route_id": "safer",
+      "segments": [
+        {
+          "segment_id": 346,
+          "coordinates": [
+            {
+              "lat": 40.7141733,
+              "lng": -74.0063041
+            },
+            {
+              "lat": 40.713618,
+              "lng": -74.006753
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "secondary"
+        },
+        {
+          "segment_id": 347,
+          "coordinates": [
+            {
+              "lat": 40.7135674,
+              "lng": -74.0066056
+            },
+            {
+              "lat": 40.7125478,
+              "lng": -74.0048733
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "cycleway"
+        },
+        {
+          "segment_id": 348,
+          "coordinates": [
+            {
+              "lat": 40.7122331,
+              "lng": -74.0057398
+            },
+            {
+              "lat": 40.7126648,
+              "lng": -74.0065826
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "service"
+        },
+        {
+          "segment_id": 349,
+          "coordinates": [
+            {
+              "lat": 40.7133567,
+              "lng": -74.0061742
+            },
+            {
+              "lat": 40.7138467,
+              "lng": -74.0057934
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 350,
+          "coordinates": [
+            {
+              "lat": 40.7141733,
+              "lng": -74.0063041
+            },
+            {
+              "lat": 40.7143745,
+              "lng": -74.0067392
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "unclassified"
+        },
+        {
+          "segment_id": 351,
+          "coordinates": [
+            {
+              "lat": 40.7135674,
+              "lng": -74.0066056
+            },
+            {
+              "lat": 40.7140483,
+              "lng": -74.0062494
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 352,
+          "coordinates": [
+            {
+              "lat": 40.7132378,
+              "lng": -74.0061105
+            },
+            {
+              "lat": 40.7127665,
+              "lng": -74.0065134
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 353,
+          "coordinates": [
+            {
+              "lat": 40.7132337,
+              "lng": -74.0061139
+            },
+            {
+              "lat": 40.7128715,
+              "lng": -74.0053668
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 354,
+          "coordinates": [
+            {
+              "lat": 40.7130821,
+              "lng": -74.0062444
+            },
+            {
+              "lat": 40.7129639,
+              "lng": -74.00595
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 355,
+          "coordinates": [
+            {
+              "lat": 40.7124005,
+              "lng": -74.0057881
+            },
+            {
+              "lat": 40.7128803,
+              "lng": -74.0053585
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 356,
+          "coordinates": [
+            {
+              "lat": 40.7137366,
+              "lng": -74.0068145
+            },
+            {
+              "lat": 40.7141681,
+              "lng": -74.0064636
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 357,
+          "coordinates": [
+            {
+              "lat": 40.7153281,
+              "lng": -74.0074741
+            },
+            {
+              "lat": 40.7142926,
+              "lng": -74.0063571
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 358,
+          "coordinates": [
+            {
+              "lat": 40.7148221,
+              "lng": -74.0078729
+            },
+            {
+              "lat": 40.7141681,
+              "lng": -74.0064636
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 359,
+          "coordinates": [
+            {
+              "lat": 40.7124915,
+              "lng": -74.0064747
+            },
+            {
+              "lat": 40.7125799,
+              "lng": -74.0062968
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 360,
+          "coordinates": [
+            {
+              "lat": 40.7126412,
+              "lng": -74.0060873
+            },
+            {
+              "lat": 40.7126127,
+              "lng": -74.0061119
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 361,
+          "coordinates": [
+            {
+              "lat": 40.7125799,
+              "lng": -74.0062968
+            },
+            {
+              "lat": 40.7125862,
+              "lng": -74.0062864
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 362,
+          "coordinates": [
+            {
+              "lat": 40.7127355,
+              "lng": -74.0064518
+            },
+            {
+              "lat": 40.7124231,
+              "lng": -74.0058329
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 363,
+          "coordinates": [
+            {
+              "lat": 40.7124812,
+              "lng": -74.006075
+            },
+            {
+              "lat": 40.7125336,
+              "lng": -74.0060519
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 364,
+          "coordinates": [
+            {
+              "lat": 40.7125862,
+              "lng": -74.0062864
+            },
+            {
+              "lat": 40.7126196,
+              "lng": -74.0062233
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 365,
+          "coordinates": [
+            {
+              "lat": 40.7126127,
+              "lng": -74.0061119
+            },
+            {
+              "lat": 40.7125789,
+              "lng": -74.0061416
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 366,
+          "coordinates": [
+            {
+              "lat": 40.7127355,
+              "lng": -74.0064518
+            },
+            {
+              "lat": 40.7127438,
+              "lng": -74.0064683
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 367,
+          "coordinates": [
+            {
+              "lat": 40.7127438,
+              "lng": -74.0064683
+            },
+            {
+              "lat": 40.71276,
+              "lng": -74.0065004
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 368,
+          "coordinates": [
+            {
+              "lat": 40.7129002,
+              "lng": -74.0058849
+            },
+            {
+              "lat": 40.7128902,
+              "lng": -74.0058652
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 369,
+          "coordinates": [
+            {
+              "lat": 40.7128949,
+              "lng": -74.0058745
+            },
+            {
+              "lat": 40.7128854,
+              "lng": -74.0058825
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 370,
+          "coordinates": [
+            {
+              "lat": 40.7129002,
+              "lng": -74.0058849
+            },
+            {
+              "lat": 40.7129211,
+              "lng": -74.0059256
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 371,
+          "coordinates": [
+            {
+              "lat": 40.7128685,
+              "lng": -74.0058229
+            },
+            {
+              "lat": 40.7128902,
+              "lng": -74.0058652
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "steps"
+        },
+        {
+          "segment_id": 372,
+          "coordinates": [
+            {
+              "lat": 40.7133032,
+              "lng": -74.0060566
+            },
+            {
+              "lat": 40.7132378,
+              "lng": -74.0061105
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 373,
+          "coordinates": [
+            {
+              "lat": 40.7129211,
+              "lng": -74.0059256
+            },
+            {
+              "lat": 40.7129639,
+              "lng": -74.00595
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 374,
+          "coordinates": [
+            {
+              "lat": 40.7128685,
+              "lng": -74.0058229
+            },
+            {
+              "lat": 40.712856,
+              "lng": -74.005735
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 375,
+          "coordinates": [
+            {
+              "lat": 40.7129281,
+              "lng": -74.0058788
+            },
+            {
+              "lat": 40.7130399,
+              "lng": -74.0057859
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 376,
+          "coordinates": [
+            {
+              "lat": 40.7130399,
+              "lng": -74.0057859
+            },
+            {
+              "lat": 40.7130887,
+              "lng": -74.0057482
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 377,
+          "coordinates": [
+            {
+              "lat": 40.7140434,
+              "lng": -74.0062915
+            },
+            {
+              "lat": 40.7138467,
+              "lng": -74.0057934
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 378,
+          "coordinates": [
+            {
+              "lat": 40.7140483,
+              "lng": -74.0062494
+            },
+            {
+              "lat": 40.71418,
+              "lng": -74.0061729
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 379,
+          "coordinates": [
+            {
+              "lat": 40.714153,
+              "lng": -74.0064351
+            },
+            {
+              "lat": 40.7140434,
+              "lng": -74.0062915
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 380,
+          "coordinates": [
+            {
+              "lat": 40.7141883,
+              "lng": -74.0064463
+            },
+            {
+              "lat": 40.714153,
+              "lng": -74.0064351
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 381,
+          "coordinates": [
+            {
+              "lat": 40.7142926,
+              "lng": -74.0063571
+            },
+            {
+              "lat": 40.7141883,
+              "lng": -74.0064463
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        },
+        {
+          "segment_id": 382,
+          "coordinates": [
+            {
+              "lat": 40.7142926,
+              "lng": -74.0063571
+            },
+            {
+              "lat": 40.7153281,
+              "lng": -74.0074741
+            }
+          ],
+          "has_sidewalk": false,
+          "road_type": "footway"
+        }
+      ]
+    }
+  },
+  "failure_point": {
+    "segment_id": 2,
+    "coordinates": {
+      "lat": 40.7134819,
+      "lng": -74.0048174
+    },
+    "explanation": "Road type increases risk"
+  }
+}
