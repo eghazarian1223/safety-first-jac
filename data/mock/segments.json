@@ -1,8 +1,91 @@
 {
-  "segments": [
-    { "segment_id": 1, "has_sidewalk": true, "road_type": "residential" },
-    { "segment_id": 2, "has_sidewalk": true, "road_type": "residential" },
-    { "segment_id": 3, "has_sidewalk": false, "road_type": "primary" },
-    { "segment_id": 4, "has_sidewalk": false, "road_type": "primary" }
-  ]
+  "routes": {
+    "primary": {
+      "route_id": "primary",
+      "segments": [
+        {
+          "segment_id": 1,
+          "coordinates": [
+            { "lat": 40.7128, "lng": -74.0060 },
+            { "lat": 40.7135, "lng": -74.0055 }
+          ],
+          "has_sidewalk": true,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 2,
+          "coordinates": [
+            { "lat": 40.7135, "lng": -74.0055 },
+            { "lat": 40.7142, "lng": -74.0048 }
+          ],
+          "has_sidewalk": true,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 3,
+          "coordinates": [
+            { "lat": 40.7142, "lng": -74.0048 },
+            { "lat": 40.7150, "lng": -74.0040 }
+          ],
+          "has_sidewalk": false,
+          "road_type": "primary"
+        },
+        {
+          "segment_id": 4,
+          "coordinates": [
+            { "lat": 40.7150, "lng": -74.0040 },
+            { "lat": 40.7158, "lng": -74.0032 }
+          ],
+          "has_sidewalk": false,
+          "road_type": "primary"
+        }
+      ]
+    },
+    "safer": {
+      "route_id": "safer",
+      "segments": [
+        {
+          "segment_id": 5,
+          "coordinates": [
+            { "lat": 40.7128, "lng": -74.0060 },
+            { "lat": 40.7130, "lng": -74.0072 }
+          ],
+          "has_sidewalk": true,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 6,
+          "coordinates": [
+            { "lat": 40.7130, "lng": -74.0072 },
+            { "lat": 40.7140, "lng": -74.0065 }
+          ],
+          "has_sidewalk": true,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 7,
+          "coordinates": [
+            { "lat": 40.7140, "lng": -74.0065 },
+            { "lat": 40.7150, "lng": -74.0050 }
+          ],
+          "has_sidewalk": true,
+          "road_type": "residential"
+        },
+        {
+          "segment_id": 8,
+          "coordinates": [
+            { "lat": 40.7150, "lng": -74.0050 },
+            { "lat": 40.7158, "lng": -74.0032 }
+          ],
+          "has_sidewalk": true,
+          "road_type": "residential"
+        }
+      ]
+    }
+  },
+  "failure_point": {
+    "segment_id": 3,
+    "coordinates": { "lat": 40.7142, "lng": -74.0048 },
+    "explanation": "Sidewalk ends here and road type increases risk"
+  }
 }
