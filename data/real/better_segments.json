@@ -1,0 +1,85 @@
+{
+  "route_id": "microsoft_b30_to_residence_inn_redmond",
+  "source": "google_maps_walking_directions_curated",
+  "validated": true,
+  "segments": [
+    {
+      "segment_id": 1,
+      "street_name": "Microsoft campus exit",
+      "instruction": "Exit the parking lot toward 163rd Ave NE",
+      "distance": "56 ft",
+      "road_type": "footway",
+      "risk": "low"
+    },
+    {
+      "segment_id": 2,
+      "street_name": "163rd Ave NE",
+      "instruction": "Turn right onto 163rd Ave NE",
+      "distance": "246 ft",
+      "road_type": "tertiary",
+      "risk": "medium"
+    },
+    {
+      "segment_id": 3,
+      "street_name": "NE 40th St",
+      "instruction": "Turn right onto NE 40th St",
+      "distance": "0.4 mi",
+      "road_type": "primary",
+      "risk": "high"
+    },
+    {
+      "segment_id": 4,
+      "street_name": "NE Bel Red Rd",
+      "instruction": "Turn left onto NE Bel Red Rd",
+      "distance": "0.4 mi",
+      "road_type": "primary",
+      "risk": "high"
+    },
+    {
+      "segment_id": 5,
+      "street_name": "West Lake Sammamish Pkwy NE",
+      "instruction": "Continue straight onto West Lake Sammamish Pkwy NE",
+      "distance": "0.5 mi",
+      "road_type": "secondary",
+      "risk": "medium"
+    },
+    {
+      "segment_id": 6,
+      "street_name": "Sammamish River Trail",
+      "instruction": "Slight right onto Sammamish River Trail",
+      "distance": "0.4 mi",
+      "road_type": "footway",
+      "risk": "low"
+    },
+    {
+      "segment_id": 7,
+      "street_name": "Sammamish River Trail",
+      "instruction": "Continue on Sammamish River Trail",
+      "distance": "0.5 mi",
+      "road_type": "footway",
+      "risk": "low"
+    },
+    {
+      "segment_id": 8,
+      "street_name": "Leary Way",
+      "instruction": "Turn right onto Leary Way",
+      "distance": "0.2 mi",
+      "road_type": "tertiary",
+      "risk": "medium"
+    },
+    {
+      "segment_id": 9,
+      "street_name": "Residence Inn access",
+      "instruction": "Final approach to destination",
+      "distance": "short",
+      "road_type": "footway",
+      "risk": "low"
+    }
+  ],
+  "failure": {
+    "failure_segment_id": 3,
+    "trigger_transition": "163rd Ave NE → NE 40th St",
+    "reason": "Route transitions from a lower-risk connector road onto a high-traffic arterial, increasing pedestrian exposure.",
+    "action": "reroute"
+  }
+}
