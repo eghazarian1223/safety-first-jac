@@ -1,0 +1,208 @@
+{
+  "route_id": "microsoft_b30_to_residence_inn_redmond",
+  "source": "google_maps_walking_directions_curated",
+  "validated": true,
+  "time_of_day": "night",
+  "segments": [
+    {
+      "segment_id": 1,
+      "street_name": "Microsoft campus exit",
+      "instruction": "Exit the parking lot toward 163rd Ave NE",
+      "distance": "56 ft",
+      "road_type": "footway",
+      "risk": "low",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": false,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.645006,
+        "lng": -122.122203
+      }
+    },
+    {
+      "segment_id": 2,
+      "street_name": "163rd Ave NE",
+      "instruction": "Turn right onto 163rd Ave NE",
+      "distance": "246 ft",
+      "road_type": "tertiary",
+      "risk": "low",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": false,
+      "is_residential": true,
+      "coordinates": {
+        "lat": 47.6454205,
+        "lng": -122.1229164
+      }
+    },
+    {
+      "segment_id": 3,
+      "street_name": "NE 40th St",
+      "instruction": "Turn right onto NE 40th St",
+      "distance": "0.4 mi",
+      "road_type": "primary",
+      "risk": "medium",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": false,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6459993,
+        "lng": -122.1228956
+      }
+    },
+    {
+      "segment_id": 4,
+      "street_name": "NE Bel Red Rd",
+      "instruction": "Turn left onto NE Bel Red Rd",
+      "distance": "0.4 mi",
+      "road_type": "primary",
+      "risk": "medium",
+      "lighting": true,
+      "crossing_available": false,
+      "is_trail": false,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6460106,
+        "lng": -122.1141248
+      }
+    },
+    {
+      "segment_id": 5,
+      "street_name": "West Lake Sammamish Pkwy NE",
+      "instruction": "Continue straight onto West Lake Sammamish Pkwy NE",
+      "distance": "0.3 mi",
+      "road_type": "secondary",
+      "risk": "medium",
+      "lighting": false,
+      "crossing_available": false,
+      "is_trail": false,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.65087,
+        "lng": -122.1165019
+      }
+    },
+    {
+      "segment_id": 6,
+      "street_name": "SR-520 Highway Crossing",
+      "instruction": "Route forces pedestrian onto SR-520 highway ramp \u2014 no safe crossing available",
+      "distance": "short",
+      "road_type": "motorway",
+      "risk": "high",
+      "lighting": false,
+      "crossing_available": false,
+      "is_trail": false,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6652,
+        "lng": -122.1272
+      }
+    },
+    {
+      "segment_id": 7,
+      "street_name": "Sammamish River Trail",
+      "instruction": "Slight right onto Sammamish River Trail",
+      "distance": "0.4 mi",
+      "road_type": "footway",
+      "risk": "low",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": true,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6579862,
+        "lng": -122.1213688
+      }
+    },
+    {
+      "segment_id": 8,
+      "street_name": "Sammamish River Trail",
+      "instruction": "Continue on Sammamish River Trail",
+      "distance": "0.5 mi",
+      "road_type": "footway",
+      "risk": "low",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": true,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6626017,
+        "lng": -122.1258694
+      }
+    },
+    {
+      "segment_id": 9,
+      "street_name": "Leary Way",
+      "instruction": "Turn right onto Leary Way",
+      "distance": "0.2 mi",
+      "road_type": "tertiary",
+      "risk": "medium",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": false,
+      "is_residential": true,
+      "coordinates": {
+        "lat": 47.6708139,
+        "lng": -122.1271839
+      }
+    },
+    {
+      "segment_id": 10,
+      "street_name": "Residence Inn access",
+      "instruction": "Final approach to destination",
+      "distance": "short",
+      "road_type": "footway",
+      "risk": "low",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": false,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6699249,
+        "lng": -122.1169664
+      }
+    }
+  ],
+  "safer_route": [
+    {
+      "segment_id": 101,
+      "street_name": "Sammamish River Trail",
+      "instruction": "Take Sammamish River Trail \u2014 safe pedestrian path avoiding SR-520",
+      "distance": "0.9 mi",
+      "road_type": "footway",
+      "risk": "low",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": true,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6579862,
+        "lng": -122.1213688
+      }
+    },
+    {
+      "segment_id": 102,
+      "street_name": "Sammamish River Trail",
+      "instruction": "Continue on Sammamish River Trail",
+      "distance": "0.5 mi",
+      "road_type": "footway",
+      "risk": "low",
+      "lighting": true,
+      "crossing_available": true,
+      "is_trail": true,
+      "is_residential": false,
+      "coordinates": {
+        "lat": 47.6626017,
+        "lng": -122.1258694
+      }
+    }
+  ],
+  "failure": {
+    "failure_segment_id": 6,
+    "trigger_transition": "West Lake Sammamish Pkwy NE \u2192 SR-520 Highway Crossing",
+    "reason": "Route forces pedestrian onto SR-520 highway ramp with no safe crossing available.",
+    "action": "reroute"
+  }
+}
