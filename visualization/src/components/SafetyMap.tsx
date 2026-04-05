@@ -38,6 +38,7 @@ const SafetyMap = () => {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<mapboxgl.Map | null>(null);
   const markersRef = useRef<mapboxgl.Marker[]>([]);
+  const [mapInitError, setMapInitError] = useState<string | null>(null);
 
   const [loading, setLoading] = useState(false);
   const [riskExplanation, setRiskExplanation] = useState("");
@@ -49,17 +50,33 @@ const SafetyMap = () => {
   // Initialize map
   useEffect(() => {
     if (map.current || !mapContainer.current) return;
+    if (!MAPBOX_TOKEN.trim()) {
+      setMapInitError("Missing VITE_MAPBOX_TOKEN. Add it to visualization/.env and restart the dev server.");
+      return;
+    }
 
-    map.current = new mapboxgl.Map({
-      container: mapContainer.current,
-      style: "mapbox://styles/mapbox/light-v11",
-      center: [MAP_CENTER.longitude, MAP_CENTER.latitude],
-      zoom: 14,
-      pitch: 55,
-      bearing: -15,
-    });
+    try {
+      map.current = new mapboxgl.Map({
+        container: mapContainer.current,
+        style: "mapbox://styles/mapbox/light-v11",
+        center: [MAP_CENTER.longitude, MAP_CENTER.latitude],
+        zoom: 14,
+        pitch: 55,
+        bearing: -15,
+      });
+    } catch (error) {
+      console.error("Map initialization error:", error);
+      setMapInitError("Map failed to load. Verify VITE_MAPBOX_TOKEN in visualization/.env.");
+      return;
+    }
 
     map.current.addControl(new mapboxgl.NavigationControl({ showCompass: false }), "bottom-right");
+    map.current.on("error", (event) => {
+      const message = String((event as { error?: { message?: string } })?.error?.message || "");
+      if (message.toLowerCase().includes("access token")) {
+        setMapInitError("Invalid Mapbox token. Update VITE_MAPBOX_TOKEN in visualization/.env.");
+      }
+    });
 
     map.current.on("load", () => {
       const m = map.current!;
@@ -296,6 +313,18 @@ const SafetyMap = () => {
       </div>
 
       <div ref={mapContainer} className="w-full h-full" />
+      {mapInitError && (
+        <div className="absolute inset-0 z-20 grid place-items-center bg-background/90 px-6 text-center">
+          <div className="max-w-xl rounded-xl border bg-card p-6 shadow-lg">
+            <h2 className="text-xl font-semibold">Map setup required</h2>
+            <p className="mt-3 text-sm text-muted-foreground">{mapInitError}</p>
+            <p className="mt-3 text-sm text-muted-foreground">
+              Example: create <code>visualization/.env</code> with
+              <code> VITE_MAPBOX_TOKEN=pk....</code>
+            </p>
+          </div>
+        </div>
+      )}
     </div>
   );
 };
