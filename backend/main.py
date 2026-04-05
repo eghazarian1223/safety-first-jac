@@ -14,9 +14,16 @@ app.add_middleware(
 )
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_PATH = os.path.join(BASE_DIR, "data/real/better_segments.json")
 
 @app.post("/analyze")
-def analyze():
+def analyze(time_of_day: str = "day"):
+    with open(DATA_PATH, "r") as f:
+        data = json.load(f)
+    data["time_of_day"] = time_of_day
+    with open(DATA_PATH, "w") as f:
+        json.dump(data, f, indent=2)
+
     result = subprocess.run(
         ["jac", "run", "agent/safety_agent.jac"],
         capture_output=True,
@@ -28,5 +35,5 @@ def analyze():
 
 @app.get("/route")
 def route():
-    with open(os.path.join(BASE_DIR, "data/mock/segments.json"), "r") as f:
+    with open(DATA_PATH) as f:
         return json.load(f)
